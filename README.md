@@ -22,3 +22,8 @@
 - Dilerseniz Anket sorularına verilen cevapları .sav uzantısı için verilen linkten ulaşabilirsiniz. [150x21'lik SPPS ( .sav ) Datası](https://github.com/eraydin61/SPSS-VeriAnaliziProjesi/blob/main/150%20Kisilik%20Data.sav).
 
 ###### **_.sav uzantılı SPSS dosyasına, verilen linke girip bilgisayarınıza indirebilirsiniz_**
+
+
+## Projenin Rapor ve Test Sonuçları
+
+- Elde edilen verilerin test sonuçları ve rapor hali için GitHub üzerinden .pdf şeklinde görüntülüyebilirsiniz. [Projenin Rapor ve Test Sonuçları](https://github.com/eraydin61/SPSS-VeriAnaliziProjesi/blob/main/Rapor%20ve%20Test%20Sonucları.pdf).
