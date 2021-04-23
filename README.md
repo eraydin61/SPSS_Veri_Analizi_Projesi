@@ -17,7 +17,7 @@
 
 - Anket sorularına verilen cevapları .csv uzantısı için verilen linkten ulaşabilirsiniz. [150x21'lik Excel ( .csv ) Datası](https://github.com/eraydin61/SPSS-VeriAnaliziProjesi/blob/main/150%20Kisilik%20Data.csv).
 
-*_.csv uzantılı Excel dosyasına, verilen linke girip bilgisyarınıza indirebilirsiniz_*
+**_.csv uzantılı Excel dosyasına, verilen linke girip bilgisyarınıza indirebilirsiniz_**
 
 - Dilerseniz Anket sorularına verilen cevapları .sav uzantısı için verilen linkten ulaşabilirsiniz. [150x21'lik SPPS ( .sav ) Datası](https://github.com/eraydin61/SPSS-VeriAnaliziProjesi/blob/main/150%20Kisilik%20Data.sav).
 
