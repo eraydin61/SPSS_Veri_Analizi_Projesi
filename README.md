@@ -8,7 +8,16 @@
 - One – Way Anova uygulanıp, hipotez belirlendi. Hipotezin doğruluğu veya yanlışlığı sonuçlanıp, raporlandı.
 - Correlations uygulanıp, hipotez belirlendi. Hipotezin doğruluğu veya yanlışlığı sonuçlanıp, raporlandı.
 
-###### Projede kullanılan anket soruları
+###### Projede Kullanılan Anket Soruları
 
 - Anket sorularına linkten ulaşabilirsiniz. [Üniversite Öğrencilerin Gelecek Kaygısı Anketi](https://docs.google.com/forms/d/e/1FAIpQLSdO0YNO698f5aZ83VNkedEFSl2KdzoWWNK94-dj5mmW-UVssw/viewform).
 - Dilerseniz Anket sorularına GitHub üzerinden .pdf uzantılı dosyaya ulaşabilirsiniz. [Üniversite Öğrencilerin Gelecek Kaygısı Anketi GitHub](https://github.com/eraydin61/SPSS-VeriAnaliziProjesi/blob/main/Veri%20Analizi%20Projesi%20Anket%20Soruları.pdf).
+
+## Projede Elde Edilen 150x21'lik Tablo
+
+- Anket sorularına verilen cevapları .csv uzantısı için verilen linkten ulaşabilirsiniz. [150x21'lik Excel ( .csv ) Datası](https://github.com/eraydin61/SPSS-VeriAnaliziProjesi/blob/main/150%20Kisilik%20Data.csv).
+**_ .csv uzantılı Excel dosyasını verilen linke girdiğiniz bilgisyarınıza indirebilirsiniz _**
+
+- Dilerseniz Anket sorularına verilen cevapları .sav uzantısı için verilen linkten ulaşabilirsiniz. [150x21'lik SPPS ( .sav ) Datası](https://github.com/eraydin61/SPSS-VeriAnaliziProjesi/blob/main/150%20Kisilik%20Data.sav).
+
+**_ .sav uzantılı SPSS dosyasını verilen linke girdiğiniz bilgisyarınıza indirebilirsiniz _**
