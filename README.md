@@ -7,3 +7,6 @@
 - 2 adet Crosstabs oluşturuldu ve raporlandı.
 - One – Way Anova uygulanıp, hipotez belirlendi. Hipotezin doğruluğu veya yanlışlığı sonuçlanıp, raporlandı.
 - Correlations uygulanıp, hipotez belirlendi. Hipotezin doğruluğu veya yanlışlığı sonuçlanıp, raporlandı.
+
+###### Projede kullanılan anket soruları
+- Anket sorularına linkten ulaşabilirsiniz. [Üniversite Öğrencilerin Gelecek Kaygısı Anketi](https://docs.google.com/forms/d/e/1FAIpQLSdO0YNO698f5aZ83VNkedEFSl2KdzoWWNK94-dj5mmW-UVssw/viewform).
