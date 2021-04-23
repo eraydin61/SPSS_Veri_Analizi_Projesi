@@ -9,5 +9,6 @@
 - Correlations uygulanıp, hipotez belirlendi. Hipotezin doğruluğu veya yanlışlığı sonuçlanıp, raporlandı.
 
 ###### Projede kullanılan anket soruları
+
 - Anket sorularına linkten ulaşabilirsiniz. [Üniversite Öğrencilerin Gelecek Kaygısı Anketi](https://docs.google.com/forms/d/e/1FAIpQLSdO0YNO698f5aZ83VNkedEFSl2KdzoWWNK94-dj5mmW-UVssw/viewform).
-- Dilerseniz Anket sorularına GitHub .pdf uzantılı linkten ulaşabilirsiniz. [Üniversite Öğrencilerin Gelecek Kaygısı Anketi](https://github.com/eraydin61/SPSS-VeriAnaliziProjesi/blob/main/Veri%20Analizi%20Projesi%20Anket%20Soruları.pdf).
+- Dilerseniz Anket sorularına GitHub üzerinden .pdf uzantılı dosyaya ulaşabilirsiniz. [Üniversite Öğrencilerin Gelecek Kaygısı Anketi GitHub](https://github.com/eraydin61/SPSS-VeriAnaliziProjesi/blob/main/Veri%20Analizi%20Projesi%20Anket%20Soruları.pdf).
